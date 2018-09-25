@@ -1,0 +1,8 @@
+[
+    { "documentId": 12345, "documentType": "nk", "invoiceDate": "01/03/2016 9: 00", "invoiceNumber": "Business Unit1", "supplierNumber": "GLCode1", "supplierName": "SubLedger1", "status": "Completed", "price": 1000, "currencyCode": "$", "gst": "12%", "approver1": "Sam", "dateOfApprover1": "01/03/2016 9: 20", "approver2": "Sam", "dateOfApprover2": "06/03/2016 9: 20", "financeValidation": "Emma", "dateOfFinanceValidation": "21/03/2016 11: 05"
+    },
+    { "documentId": 12345, "documentType": "nKs", "invoiceDate": "01/03/2016 9: 00", "invoiceNumber": "Business Unit1", "supplierNumber": "GLCode1", "supplierName": "SubLedger1", "status": "Completed", "price": 1000, "currencyCode": "$", "gst": "12%", "approver1": "Sam", "dateOfApprover1": "01/03/2016 9: 20", "approver2": "Sam", "dateOfApprover2": "06/03/2016 9: 20", "financeValidation": "Emma", "dateOfFinanceValidation": "21/03/2016 11: 05"
+    },
+    { "documentId": 12345, "documentType": "nk", "invoiceDate": "01/03/2016 9: 00", "invoiceNumber": "Business Unit1", "supplierNumber": "GLCode1", "supplierName": "SubLedger1", "status": "Completed", "price": 1000, "currencyCode": "$", "gst": "12%", "approver1": "Sam", "dateOfApprover1": "01/03/2016 9: 20", "approver2": "Sam", "dateOfApprover2": "06/03/2016 9: 20", "financeValidation": "Emma", "dateOfFinanceValidation": "21/03/2016 11: 05"
+    }
+]
